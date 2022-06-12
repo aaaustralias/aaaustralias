@@ -1,6 +1,6 @@
 <body align="left">
   <div align="center">
-    <img src="logo.png" alt="australias logo" width="200px" height="200px">
+    <img src="logo.gif" alt="australias logo" width="200px" height="200px">
     <h1>Hey, I'm Australias</h1>
   </div>
   <div>
