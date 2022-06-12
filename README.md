@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**aaaustralias/aaaustralias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body align="left">
+  <div align="center">
+    <img src="logo.png" alt="australias logo" width="200px" height="200px">
+    <h1>Hey, I'm Australias</h1>
+  </div>
+  <div>
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="https://github.com/aaaustralias/within-the-fire">Within The Fire</a> (A small web project)</li>
+      <li><a href="https://github.com/aaaustralias/psychologic">Psychologic</a> (A personal site/blog)</li>
+      <li><a href="https://github.com/aaaustralias/skript">Skript</a> (All of my <a href="https://skripthub.net">skripts<a>)</li>
+    </ul>
+  </div>
+</body>
