@@ -21,12 +21,11 @@
       <li>Studying Information Technologies</li>
       <br>
       <li>Wannabe Fullstack dev</li>
-      <li>Fluent in [Skript](https://skripthub.net) and [Python](https://www.python.org)</li>
+      <li>Fluent in Skript and Python</li>
       <li>Decent at HTML/CSS</li>
       <li>Learning Javascript, Java, and C Languages</li>
       <br>
-      <p align="center">`Discord: australias#3156`</p>
-      <img src="https://discord.com/users/695010523229716541" a="Discord Info" align="center">
+      <h3 align="right">Discord: australias#3156</p>
     </ul>
   </div>
 </body>
